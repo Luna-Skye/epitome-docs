@@ -1,0 +1,19 @@
+{
+  "name": "epitome-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sepshun/epitome-docs.git"
+  },
+  "author": "Jessica Skye (sepshuncontact@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sepshun/epitome-docs/issues"
+  },
+  "homepage": "https://github.com/Sepshun/epitome-docs#readme"
+}
