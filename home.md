@@ -11,6 +11,14 @@ This is the single source of truth regarding how staff matters are handled, and 
 ### Our Goal
 Our goal within Epitome is to provide a safe and fun environment for SCP: Secret Laboratory, somewhere to play without being greeted by bigotry, racism, or any kind of negativity. We try to be as laid back as possible so long as player's experience isn't diminished.
 
+### Regarding Staff Applications
+If you're looking for to apply for a role as a staff member, please do at least read our [Staff Guidelines](staff-guidelines.md) and then head over to this [Google Form]() and fill it out.
+
+If you've already filled out that form, please take some time to look through some documentation.
+- [Staff Guidelines](staff-guidelines.md) (if you haven't already)
+- [Staff Resources](staff-resources.md)
+- [Remote Admin Documentation](https://en.scpslgame.com/index.php?title=Remote_Admin)
+
 ### Legacy Documentation
 Most of this should be already covered here, but it might be helpful if there are still some gaps to fill.
 - [Legacy Staff Guidelines](https://docs.google.com/document/d/1DmblF_iUh3P_4eL1SxqUjEBCAAJ54cTq44RxnlruVoE/edit?usp=sharing)
