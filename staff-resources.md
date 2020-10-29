@@ -135,7 +135,7 @@ As detailed in [Handling Rulebreaks](staff-guidelines.md?id=handling-rulebreaker
 !> There have been some cases in which you can ban yourself, please be careful. Hopefully this will be sorted out by time we move to EXILED, but regardless, be careful.
 
 ### Unbanning a Player
-In order to unban a player, you can either use their SteamID or their IP Address, SteamID seems to be the most reliable and will be output reliable within the `#game-log` channel on Discord.
+In order to unban a player, you can either use their SteamID or their IP Address, SteamID seems to be the most reliable and will be output reliably within the `#game-log` channel on Discord.
 
 This feature is kind of hidden away, and by that I mean it's literally explained right under the ban length options but I failed to see it. I've been under the impression the only way to unban would be to alter config, but apparently it's possible through a Text Based RA command.
 
